@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-  <h1 className='text-3xl font-bold underline text-cyan-100'>
-    unu
+  <h1 className='container m-auto text-center text-3xl font-bold underline text-red-500'>
+    AMigooo
   </h1>
   );
 }
